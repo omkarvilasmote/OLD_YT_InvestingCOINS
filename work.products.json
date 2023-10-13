@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "64eb82b70d9d067037aa40a0"
+  },
+  "ProductID": 1,
+  "Name": "Sweeper=1",
+  "Days": 300,
+  "Ernning": 8.16,
+  "price": 0
+},
+{
+  "_id": {
+    "$oid": "64eb95fe0d9d067037aa40a4"
+  },
+  "ProductID": 2,
+  "Name": "vacuum cleaner=2",
+  "Days": 36,
+  "Ernning": 95.76,
+  "price": 700
+},
+{
+  "_id": {
+    "$oid": "64eb962d0d9d067037aa40a5"
+  },
+  "ProductID": 3,
+  "Name": "Air conditioner=3",
+  "Days": 36,
+  "Ernning": 290.88,
+  "price": 2200
+},
+{
+  "_id": {
+    "$oid": "64eb96750d9d067037aa40a6"
+  },
+  "ProductID": 4,
+  "Name": "Ice cream machin=4",
+  "Days": 36,
+  "Ernning": 1440.48,
+  "price": 6800
+},
+{
+  "_id": {
+    "$oid": "64eb96a10d9d067037aa40a7"
+  },
+  "ProductID": 5,
+  "Name": "Integrated cooker=5",
+  "Days": 36,
+  "Ernning": 2375.52,
+  "price": 8900
+},
+{
+  "_id": {
+    "$oid": "64eb96d00d9d067037aa40a8"
+  },
+  "ProductID": 6,
+  "Name": "Television=6",
+  "Days": 36,
+  "Ernning": 3934,
+  "price": 14000
+},
+{
+  "_id": {
+    "$oid": "64eb970f0d9d067037aa40a9"
+  },
+  "ProductID": 7,
+  "Name": "Washing machine=7",
+  "Days": 36,
+  "Ernning": 12173.76,
+  "price": 28000
+},
+{
+  "_id": {
+    "$oid": "64eb97470d9d067037aa40aa"
+  },
+  "ProductID": 8,
+  "Name": "Freezer=8",
+  "Days": 36,
+  "Ernning": 17391.12,
+  "price": 40000
+},
+{
+  "_id": {
+    "$oid": "64eb97860d9d067037aa40ab"
+  },
+  "ProductID": 9,
+  "Name": "Water heater-68",
+  "Days": 36,
+  "Ernning": 33544,
+  "price": 51000
+},
+{
+  "_id": {
+    "$oid": "64eb97ac0d9d067037aa40ac"
+  },
+  "ProductID": 10,
+  "Name": "Toilet-56",
+  "Days": 36,
+  "Ernning": 6228.26,
+  "price": 21900
+},
+{
+  "_id": {
+    "$oid": "64eb97ea0d9d067037aa40ad"
+  },
+  "ProductID": 11,
+  "Name": "Yuba-42",
+  "Days": 36,
+  "Ernning": 3512.16,
+  "price": 13600
+}]
